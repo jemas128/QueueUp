@@ -1,0 +1,5 @@
+{
+  "name": "QueueUp: Magic Streamlit Edition",
+  "description": "A lively, colorful FIFO queue simulator built with Python and Streamlit.",
+  "requestFramePermissions": []
+}
